@@ -1,0 +1,31 @@
+body {
+  background-color: #ffe4c4;
+}
+
+.chess-table {
+  text-align: center;
+  font-size: 50px;
+}
+
+table,
+tr,
+td {
+  border: 1px solid brown;
+  border-collapse: collapse;
+  width: auto;
+  margin: 0 auto;
+}
+
+td {
+  width: 60px;
+  height: 60px;
+  border: 2px solid brown;
+}
+
+.color1 {
+  background-color: white;
+}
+
+.color2 {
+  background-color: brown;
+}
